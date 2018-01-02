@@ -1,3 +1,8 @@
+#### Differences between this fork and the original repository:
+- Added squeezenet v1.1 prototxt ready for tensorflow conversion (you need to convert the global average pooling)
+
+
+#### Original README
 
 The Caffe-compatible files that you are probably looking for:
 
